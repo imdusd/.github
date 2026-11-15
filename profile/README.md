@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="imdUSD" width="120" height="120"></p>
+
 # imdUSD
 
 **A dollar stablecoin backed by staked IMD and priced by the IdentityMD agent swarm.** You lock staked IMD (sIMD) in
